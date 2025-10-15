@@ -1,4 +1,4 @@
-# Methods Practice
+# Methods Practice for the course work of CS152L
 
 ## Overview
 This project is a Java-based  assignment, focusing on implementing and testing various methods. The provided methods cover a range of operations including numerical comparisons, character manipulation, string processing, and mathematical calculations.
